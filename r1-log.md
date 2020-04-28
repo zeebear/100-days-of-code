@@ -5,7 +5,9 @@ The log of my #100DaysOfCode challenge. Started on Monday 27 April 2020.
 ## Log
 
 ### R1D1 
-<!-- Started a Weather App. Worked on the draft layout of the app, struggled with OpenWeather API http://www.example.com -->
-Re-starting The Odin Project, with the intention of building confidence in Ruby & Ruby on Rails. 
+
+Re-starting [The Odin Project](https://www.theodinproject.com/), with the intention of building confidence in Ruby & Ruby on Rails. Committed to #100DaysOfCode challenge and joined the Discord group. Will also tweet progress daily. Cloned this fork to my computer.
+
+[The Odin Project](https://www.theodinproject.com/) has tweaked their curriculum since I last did anything there, so I'm filling in the gaps where they've added stuff in sections I had finished. Today, [Command Line Basics](https://www.theodinproject.com/courses/web-development-101/lessons/command-line-basics-web-development-101) and [Setting Up Git](https://www.theodinproject.com/courses/web-development-101/lessons/setting-up-git)
 
 ### R1D2
