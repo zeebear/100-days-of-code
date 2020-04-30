@@ -15,3 +15,5 @@ Re-starting [The Odin Project](https://www.theodinproject.com/), with the intent
 Continued the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/). Reaquainting myself with HTML, CSS and Sublime Text. Slow going, but hopefully will build momentum.
 
 ### R1D2 (29-04-2020)
+
+Still going with the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/). Managed to center the logo and the search box, now I have to figure out how to style the form and position the search buttons. Incredibly slow going!
