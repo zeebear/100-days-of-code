@@ -22,4 +22,6 @@ Still going with the [Google homepage clone](https://github.com/zeebear/google-h
 
 Almost finished with the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/). Positioned the buttons, am happy with the layout, started styling the form. Tomorrow I will finish styling the form. Need to decide if I want to add the magnifying glass and microphone icons to the search box -- that would be a lot more coding.
 
-### R1D5 (01-05-2020)
+### R1D5 (02-05-2020)
+
+One button left to style (sign in button), and then I have to make the page responsive. Maybe I'll really finish the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/) tomorrow? Ha ha ha…
