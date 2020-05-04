@@ -25,3 +25,10 @@ Almost finished with the [Google homepage clone](https://github.com/zeebear/goog
 ### R1D5 (02-05-2020)
 
 One button left to style (sign in button), and then I have to make the page responsive. Maybe I'll really finish the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/) tomorrow? Ha ha ha…
+
+### R1D6 (03-05-2020)
+
+Finished the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/) enough to submit it to the forum and ask for feedback :sweat-smile: I'm actually pretty pleased at how it turned out -- and it only took me 2 poms to finish!
+
+### R1D7 (04-05-2020)
+
