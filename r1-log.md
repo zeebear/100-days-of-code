@@ -28,7 +28,7 @@ One button left to style (sign in button), and then I have to make the page resp
 
 ### R1D6 (03-05-2020)
 
-Finished the [Google homepage clone](https://github.com/zeebear/google-homepage) on [The Odin Project](https://www.theodinproject.com/) enough to submit it to the forum and ask for feedback :sweat_smile: I'm actually pretty pleased at how it turned out -- and it only took me 2 poms to finish!
+Finished the [Google homepage clone](https://zeebear.github.io/google-homepage/) on [The Odin Project](https://www.theodinproject.com/) enough to submit it to the forum and ask for feedback :sweat_smile: I'm actually pretty pleased at how it turned out -- and it only took me 2 poms to finish!
 
 ### R1D7 (04-05-2020)
 
