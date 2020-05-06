@@ -40,4 +40,8 @@ I logged into CodePen for the first time in ages, and to my enormous surprise di
 
 **May the fourth be with you!**
 
-### R1D7 (04-05-2020)
+### R1D8 (05-05-2020)
+
+I only had an hour today. Did the html skeleton for the fCC product landing page.
+
+### R1D9 (06-05-2020)
