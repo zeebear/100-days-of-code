@@ -45,3 +45,7 @@ I logged into CodePen for the first time in ages, and to my enormous surprise di
 I only had an hour today. Did the html skeleton for the fCC product landing page.
 
 ### R1D9 (06-05-2020)
+
+I only had an hour today. Got bogged down with email verification and form submission, spent most of the time playing with regexes. I think the issue is fixed. Tomorrow on to content!
+
+### R1D10 (07-05-2020)
