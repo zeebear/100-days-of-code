@@ -49,3 +49,7 @@ I only had an hour today. Did the html skeleton for the fCC product landing page
 I only had an hour today. Got bogged down with email verification and form submission, spent most of the time playing with regexes. I think the issue is fixed. Tomorrow on to content!
 
 ### R1D10 (07-05-2020)
+
+Sourced images and began to make a story for the fCC product landing page, then realised that I was doing a "shop" instead of a "product landing page" and had to start over. Finished writing all the text, sourced all the images, uploaded them to Cloudinary, and the html is basically finished and ready for CSS tomorrow.
+
+### R1D11 (08-05-2020)
