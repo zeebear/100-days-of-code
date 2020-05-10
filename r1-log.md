@@ -53,3 +53,11 @@ I only had an hour today. Got bogged down with email verification and form submi
 Sourced images and began to make a story for the fCC product landing page, then realised that I was doing a "shop" instead of a "product landing page" and had to start over. Finished writing all the text, sourced all the images, uploaded them to Cloudinary, and the html is basically finished and ready for CSS tomorrow.
 
 ### R1D11 (08-05-2020)
+
+Had fun finding cheesy fonts that I wouldn't usually use. The [fCC product landing page](https://zeebear.github.io/product_landing_page/) is live on GitHub! It works fine on a computer, and is already surprisingly responsive. Tomorrow I have to start with the media queries and make the navbar and videos work on mobiles, oh joy…
+
+### R1D12 (09-05-2020)
+
+Submitted the [fCC product landing page](https://zeebear.github.io/product_landing_page/) and fixed the two errors so that it passed, but I'm going to have to rework the CSS to make it work on mobiles
+
+### R1D13 (10-05-2020)
