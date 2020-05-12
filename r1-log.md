@@ -58,6 +58,8 @@ Had fun finding cheesy fonts that I wouldn't usually use. The [fCC product landi
 
 ### R1D12 (09-05-2020)
 
-Submitted the [fCC product landing page](https://zeebear.github.io/product_landing_page/) and fixed the two errors so that it passed, but I'm going to have to rework the CSS to make it work on mobiles
+Submitted the [fCC product landing page](https://zeebear.github.io/product_landing_page/) and fixed the two errors so that it passed, but I'm going to have to rework the CSS to make it work on mobiles before it's fit to be put on my portfolio page
 
-### R1D13 (10-05-2020)
+### R1D13 (12-05-2020)
+
+### R1D14 (13-05-2020)
