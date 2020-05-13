@@ -62,4 +62,6 @@ Submitted the [fCC product landing page](https://zeebear.github.io/product_landi
 
 ### R1D13 (12-05-2020)
 
+Tried various ways and methods to make the embedded Vimeo videos be even a little responsive and play nicely with the smaller-screen version of my site. Nothing worked for me. In a fit of pique I decided to just leave the videos for larger-screen and remove them altogether for smaller-screen. Will try making everything else look better tomorrow.
+
 ### R1D14 (13-05-2020)
