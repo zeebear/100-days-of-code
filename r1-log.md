@@ -65,3 +65,10 @@ Submitted the [fCC product landing page](https://zeebear.github.io/product_landi
 Tried various ways and methods to make the embedded Vimeo videos be even a little responsive and play nicely with the smaller-screen version of my site. Nothing worked for me. In a fit of pique I decided to just leave the videos for larger-screen and remove them altogether for smaller-screen. Will try making everything else look better tomorrow.
 
 ### R1D14 (13-05-2020)
+
+Made a new style.css and made the mobile site work first. I have three more things left to do, and everything else seems to be working as I would like. Left to do:
++ Hamburger menu in mobile view
++ Attempt to put videos back in mobile view
++ Choose body text colour (easier to see it in the daylight)
+
+### R1D15 (14-05-2020)
