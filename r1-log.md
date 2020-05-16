@@ -83,3 +83,4 @@ Left to do tomorrow:
 + Swop the header and the video
 + Fix the wonky exploded cauldron picture
 + Think again about how to close the mobile menu bar (it's a toggle, I'm not sure if it will be possible to do it "automatically"…)
++ Make all the "highlights" photos the same size
