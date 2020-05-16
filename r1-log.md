@@ -72,3 +72,14 @@ Made a new style.css and made the mobile site work first. I have three more thin
 + Choose body text colour (easier to see it in the daylight)
 
 ### R1D15 (14-05-2020)
+
+Spent all my time trying to make a menu for the mobile version, and not managing. I'm not sure if what I want to do is actually possible with CSS. Set everything back to how it was yesterday. Will try again tomorrow.
+
+### R1D16 (15-05-2020)
+
+Took a while, but I managed to make the menu work like I wanted it to. I also put the videos back into the mobile view, set the social media header tags, and made a favicon. All the Lighthouse audit tests on Chrome are green. After yesterday's impasse, that feels pretty good.
+Left to do tomorrow:
++ I've chosen the body text color, now to stick it in
++ Swop the header and the video
++ Fix the wonky exploded cauldron picture
++ Think again about how to close the mobile menu bar (it's a toggle, I'm not sure if it will be possible to do it "automatically"…)
