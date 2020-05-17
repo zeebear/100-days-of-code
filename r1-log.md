@@ -84,3 +84,10 @@ Left to do tomorrow:
 + Fix the wonky exploded cauldron picture
 + Think again about how to close the mobile menu bar (it's a toggle, I'm not sure if it will be possible to do it "automatically"…)
 + Make all the "highlights" photos the same size
++ Make the first video auto-play
+
+### R1D17 (16-05-2020)
+
+Tried to come up with a way to close the mobile menu when a link is clicked, but couldn't come up with anything that would work with CSS only. I tried several ways to make the video auto-play. It now works on Firefox but not on Chrome on the desktop, but it works on many mobile browsers. Everything else is done, so I'm going to move on to the next project tomorrow.
+
+### R1D18 (17-05-2020)
