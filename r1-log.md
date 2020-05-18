@@ -91,3 +91,7 @@ Left to do tomorrow:
 Tried to come up with a way to close the mobile menu when a link is clicked, but couldn't come up with anything that would work with CSS only. I tried several ways to make the video auto-play. It now works on Firefox but not on Chrome on the desktop, but it works on many mobile browsers. Everything else is done, so I'm going to move on to the next project tomorrow.
 
 ### R1D18 (17-05-2020)
+
+Decided to use the text of [Learn X in Y minutes' excellent Ruby overview](https://learnxinyminutes.com/docs/ruby/) for my technical page. It'll be a good way for me to review, and since I've fully credited them I hope they won't mind! Started the HTML skeleton today, following the user stories given. Already learned something new from the 5 sections I've done already -- bitwise operations!
+
+### R1D19 (18-05-2020)
