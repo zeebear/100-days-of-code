@@ -96,6 +96,6 @@ Decided to use the text of [Learn X in Y minutes' excellent Ruby overview](https
 
 ### R1D19 (18-05-2020)
 
-
+Started styling the mobile version today. Menu went much quicker than on the last site!
 
 ### R1D20 (19-05-2020)
