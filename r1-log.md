@@ -95,3 +95,7 @@ Tried to come up with a way to close the mobile menu when a link is clicked, but
 Decided to use the text of [Learn X in Y minutes' excellent Ruby overview](https://learnxinyminutes.com/docs/ruby/) for my technical page. It'll be a good way for me to review, and since I've fully credited them I hope they won't mind! Started the HTML skeleton today, following the user stories given. Already learned something new from the 5 sections I've done already -- bitwise operations!
 
 ### R1D19 (18-05-2020)
+
+
+
+### R1D20 (19-05-2020)
