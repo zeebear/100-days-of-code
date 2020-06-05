@@ -98,4 +98,8 @@ Decided to use the text of [Learn X in Y minutes' excellent Ruby overview](https
 
 Started styling the mobile version today. Menu went much quicker than on the last site!
 
-### R1D20 (19-05-2020)
+### R1D20 (04-06-2020)
+
+Back in the saddle after a fortnight's break due to crippling sinus infection. Finished making the mobile menu work -- [this article about position: sticky in CSS](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46) was a lifesaver, as was realising that I have to set display to something other than static in order to set a z-index value. Then on to the desktop version, where the navbar is done and the main body is underway.
+
+### R1D21 (05-06-2020)
