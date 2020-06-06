@@ -103,3 +103,11 @@ Started styling the mobile version today. Menu went much quicker than on the las
 Back in the saddle after a fortnight's break due to crippling sinus infection. Finished making the mobile menu work -- [this article about position: sticky in CSS](https://medium.com/@elad/css-position-sticky-how-it-really-works-54cd01dc2d46) was a lifesaver, as was realising that I have to set display to something other than static in order to set a z-index value. Then on to the desktop version, where the navbar is done and the main body is underway.
 
 ### R1D21 (05-06-2020)
+
+Submitted the [fCC Technical Documentation Page](https://codepen.io/zeebear/pen/RwWqNvV) today. I don't say that I finished it, because I have at least 10 things that I want to change or improve about it, but it passed all the tests. It's functional, at least, so I'm going to move on to the last assignment for the fcc Responsive Web Design cert. Polishing will happen later, since this is actually a useful project for me, but for now I need to move on.
+
+Page [here on Codepen](https://codepen.io/zeebear/pen/RwWqNvV) and [here on GitHub](https://zeebear.github.io/tech_doc_page/)
+
+I then did the skeleton HTML and started the CSS for the final fCC assignment.
+
+### R1D22 (06-06-2020)
