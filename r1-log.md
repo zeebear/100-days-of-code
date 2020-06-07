@@ -111,3 +111,7 @@ Page [here on Codepen](https://codepen.io/zeebear/pen/RwWqNvV) and [here on GitH
 I then did the skeleton HTML and started the CSS for the final fCC assignment.
 
 ### R1D22 (06-06-2020)
+
+Worked on the cards for the portfolio.
+
+### R1D23 (07-06-2020)
