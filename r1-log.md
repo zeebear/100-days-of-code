@@ -115,3 +115,7 @@ I then did the skeleton HTML and started the CSS for the final fCC assignment.
 Worked on the cards for the portfolio.
 
 ### R1D23 (07-06-2020)
+
+Found [this](https://every-layout.dev/) yesterday and am devouring it. It talks about how to write CSS to work with the algorithms that the browsers use instead of fighting against them. Finally, something that makes sense! Unfortunately, coding has to grind to a halt until I've read and digested this enough to use it.
+
+### R1D24 (08-06-2020)
