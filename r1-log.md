@@ -118,4 +118,6 @@ Worked on the cards for the portfolio.
 
 Found [this](https://every-layout.dev/) yesterday and am devouring it. It talks about how to write CSS to work with the algorithms that the browsers use instead of fighting against them. Finally, something that makes sense! Unfortunately, coding has to grind to a halt until I've read and digested this enough to use it.
 
-### R1D24 (08-06-2020)
+### R1D24 (15-07-2020)
+
+Back after a long hiatus! I'm not starting again from zero because I want to see how much I can learn in 100 days, even with a 6-week break. Worked on fCC portfolio page today, images are cropped and up on Cloudinary and linked to cards / tiles.
