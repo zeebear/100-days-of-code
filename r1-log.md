@@ -121,3 +121,11 @@ Found [this](https://every-layout.dev/) yesterday and am devouring it. It talks 
 ### R1D24 (15-07-2020)
 
 Back after a long hiatus! I'm not starting again from zero because I want to see how much I can learn in 100 days, even with a 6-week break. Worked on fCC portfolio page today, images are cropped and up on Cloudinary and linked to cards / tiles.
+
+### R1D25 (17-07-2020)
+
+Quarter of the way through the first round! Tiles are basically ready and responsive, working on welcome section content and positioning.
+
+### R1D26 (05-11-2020)
+
+Returning to Ruby: Updated to Ruby 2.6.6p146. Redid Day 1 of LeWagon until exercise 5. Will chug away at those for a while until I feel up to restarting CodeWars and HackerRank.
